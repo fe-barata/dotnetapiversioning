@@ -1,0 +1,7 @@
+﻿services:
+  dotnetapiversioning:
+    image: dotnetapiversioning
+    build:
+      context: .
+      dockerfile: DotNetApiVersioning/Dockerfile
+
