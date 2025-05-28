@@ -34,3 +34,4 @@
 /Users/felipe.barata/Documents/WORK/dotnetapiversioning/DotNetApiVersioning/DotNetApiVersioning/obj/Debug/net8.0/DotNetApiVersioning.pdb
 /Users/felipe.barata/Documents/WORK/dotnetapiversioning/DotNetApiVersioning/DotNetApiVersioning/obj/Debug/net8.0/DotNetApiVersioning.genruntimeconfig.cache
 /Users/felipe.barata/Documents/WORK/dotnetapiversioning/DotNetApiVersioning/DotNetApiVersioning/obj/Debug/net8.0/ref/DotNetApiVersioning.dll
+/Users/felipe.barata/Documents/WORK/dotnetapiversioning/DotNetApiVersioning/DotNetApiVersioning/obj/Debug/net8.0/DotNetApiVersioning.sourcelink.json
