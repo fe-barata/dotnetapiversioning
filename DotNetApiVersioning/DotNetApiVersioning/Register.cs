@@ -45,7 +45,7 @@ public static class Register
         builder.Services.AddApiVersioning(options =>
                 {
                     // Default API versioning configuration
-                    options.DefaultApiVersion = new ApiVersion(1);
+                    options.DefaultApiVersion = new ApiVersion(2);
                     // Report API versions in the response headers (e.g., "api-supported-versions" and "api-deprecated-versions")
                     options.ReportApiVersions = true;
                     // Uses the default API version when not specified
